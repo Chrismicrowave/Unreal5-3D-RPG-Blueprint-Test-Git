@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Locomotion/Walk_Stop.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Locomotion/Idle_Break.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/ABP_RPGcharacter.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Crouched/Crouched_Idle.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Crouched/Crouched_Walk.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Lean/Lean_Left.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Lean/Lean_Right.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Lean/LeanBlendSpace1D.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_Colour.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_Colour2.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Vaulting/VaultOver.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Vaulting/VaultOverMontage.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/NN/8721A1DBZO1HIEZCZY4X6T.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Blueprints/BPI_Assassin.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/UI/WB_AssassinPrompt.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/W8/HCYPP2G3ZDVJLK8YBHYPCM.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Blueprints/BpDummy.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Crouched/Crouh_Walk.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Crouched/Crouch_Idle.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Crouh_Walk.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Walk_Stop.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Idle_Break.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/Crouch_Idle.uasset",
+				"C:/Files/Desktop/UE5/Projects/RPG_Test_3D/RPG_Test_3D/Content/Characters/RPG_Character/Animation/ABP_RPG_RPGcharacter.uasset"
+			]
+		}
+	]
+}
