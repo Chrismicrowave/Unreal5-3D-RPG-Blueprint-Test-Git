@@ -1,0 +1,4 @@
+(Instance of Item) Slots: 
+	- (All Items) DataTable
+		- (Item) Structure
+			- (Item Type) Enum_types
